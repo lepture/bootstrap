@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap",
+  "repo": "lepture/bootstrap",
+  "description": "Bootstrap for component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}
