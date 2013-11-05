@@ -4,7 +4,22 @@
   "description": "Bootstrap for component.",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "component/jquery": "*"
+  },
   "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "bootstrap.css",
+    "bootstrap-theme.css"
+  ],
+  "fonts": [
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff"
+  ],
   "license": "MIT"
 }
